@@ -7,7 +7,6 @@
 <p align="center">
   <a href="#features">核心特性</a> •
   <a href="#getting-started">快速上手</a> •
-  <a href="#best-practices">最佳实践</a>
 </p>
 
 ---
@@ -32,6 +31,7 @@
 ## 🚀 快速上手 <a id="getting-started"></a>
 
 ### 1. 克隆项目
+
 ```bash
-git clone [https://github.com/qiaohuaruan/foxit-skills.git](https://github.com/qiaohuaruan/foxit-skills.git)
+git clone https://github.com/qiaohuaruan/foxit-skills.git
 cd foxit-skills
