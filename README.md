@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#features">核心特性</a> •
-  <a href="#getting-started">快速上手</a> •
+  <a href="#getting-started">快速上手</a>
 </p>
 
 ---
